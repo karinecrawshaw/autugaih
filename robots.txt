@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ughooveequ.interaktionsgestaltung.io/sitemap.xml
